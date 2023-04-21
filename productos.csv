@@ -1,0 +1,82 @@
+clave,descripcion,precio,clasificacion,existencia,existencia_minima,existencia_maxima
+1,Arroz,12.50,Granos,30,10,100
+2,Frijoles,15.00,Granos,25,10,100
+3,Azucar,20.00,Endulzantes,40,20,200
+4,Sal,8.50,Condimentos,15,5,50
+5,Leche,22.00,Lacteos,10,5,50
+6,Yogurt,28.50,Lacteos,12,5,50
+7,Queso,45.00,Lacteos,8,5,50
+8,Jamon,35.00,Carnes frias,5,2,20
+9,Salchicha,25.00,Carnes frias,10,5,50
+10,Atun,20.00,Enlatados,15,5,50
+11,Sardina,12.50,Enlatados,20,10,100
+12,Pan,10.00,Reposteria,50,20,200
+13,Galletas,18.00,Reposteria,30,10,100
+14,Papas,12.00,Botanas,20,10,100
+15,Tostadas,8.50,Botanas,15,5,50
+16,Refresco,18.00,Bebidas,20,10,100
+17,Jugo,25.00,Bebidas,15,5,50
+18,Cerveza,35.00,Bebidas,10,5,50
+19,Agua,10.00,Bebidas,30,10,100
+20,Pollo,50.00,Carnes,5,2,20
+21,Res,80.00,Carnes,3,1,10
+22,Cerdo,60.00,Carnes,4,2,20
+23,Verduras mixtas,22.50,Verduras,10,5,50
+24,Zanahoria,6.50,Verduras,25,10,100
+25,Chayote,8.00,Verduras,20,10,100
+26,Lechuga,12.00,Verduras,15,5,50
+27,Pepino,10.00,Verduras,20,10,100
+28,Tomate,15.00,Verduras,20,10,100
+29,Cebolla,10.00,Verduras,25,10,100
+30,Ajo,7.50,Verduras,30,10,100
+31,Naranja,5.00,Frutas,40,20,200
+32,Manzana,10.00,Frutas,30,10,100
+33,Platano,7.50,Frutas,25,10,100
+34,Fresa,25.00,Frutas,15,5,50
+35,Mango,12.50,Frutas,20,10,100
+36,Pina,15.00,Frutas,15,5,50
+37,Sandia,18.00,Frutas,10,5,50
+38,Uva,30.00,Frutas,8,5,50
+39,Detergente,25.00,Limpieza,15,5,50
+40,Cloro,12.00,Limpieza,20,12,80
+41,Chips,18.50,Snacks,15,5,25
+42,Salsa de tomate,10.25,Enlatados,25,10,35
+43,Mayonesa,12.75,Enlatados,20,5,30
+44,Mostaza,8.50,Enlatados,30,10,40
+45,Te,15.00,Bebidas,20,5,30
+46,Cafe,22.50,Bebidas,15,5,25
+47,Refresco de dieta,12.50,Bebidas,25,10,35
+48,Agua mineral,5.75,Bebidas,35,15,45
+49,Chocolate en polvo,18.50,Desayuno,15,5,25
+50,Miel,25.00,Desayuno,10,5,20
+51,Mermelada,20.50,Desayuno,12,5,22
+52,Avena,12.75,Desayuno,30,10,40
+53,Panales,30.50,Bebes,10,5,20
+54,Toallitas humedas,15.20,Bebes,20,5,30
+55,Talco,8.50,Bebes,35,15,45
+56,Aceite para bebe,20.00,Bebes,15,5,25
+57,Desodorante,15.50,Higiene personal,20,5,30
+58,Jabon corporal,10.80,Higiene personal,25,10,35
+59,Shampoo,18.90,Higiene personal,15,5,25
+60,Toallas femeninas,12.50,Higiene personal,30,10,40
+61,Esponja para lavar,5.75,Limpieza,40,20,60
+62,Detergente,22.50,Limpieza,12,5,20
+63,Anti-grasa,15.20,Limpieza,25,10,35
+64,Cloro,10.50,Limpieza,30,10,40
+65,Papel higienico,18.50,Papel y empaques,15,5,25
+66,Papel de cocina,22.50,Papel y empaques,12,5,20
+67,Bolsas de basura,10.80,Papel y empaques,30,10,40
+68,Envoltura de aluminio,8.50,Papel y empaques,35,15,45
+69,Aceitunas,20.50,Enlatados,15,5,25
+70,Champinones,18.90,Enlatados,20,5,30
+71,Salsa picante,12.75,Enlatados,25,10,35
+72,Chucrut,10.25,Enlatados,30,10,40
+73,Sal,5.75,Especias,50,20,80
+74,Pimienta,8.50,Especias,35,15,45
+75,Oregano,6.00,Especias,40,20,60
+76,Comino,10.80,Especias,30,10,40
+77,Leche Lala,19.50,Lacteos,25,10,50
+78,Refresco Coca-Cola,15.00,Bebidas,30,15,60
+79,Pan Bimbo Integral,26.00,Pan,18,10,30
+80,Jabon Zote,8.50,Articulos de limpieza,40,20,80
+
